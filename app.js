@@ -1,7 +1,4 @@
-//Meu teste
-
-
-
+//Meu teste 
 import express from 'express';
 import { produtos } from './produto.js';
 
