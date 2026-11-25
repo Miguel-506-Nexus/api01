@@ -85,5 +85,5 @@ export const deleteProduto = (req, res) => {
     res.status(200).json({
         mensagem: `Produto com ID ${id} removido com sucesso.`,
         produto: produtoRemovido
-    });
+    })
 };

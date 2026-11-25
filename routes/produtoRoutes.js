@@ -19,4 +19,4 @@ router.post('/', postProduto);
 router.put('/:id', putProduto);
 router.delete('/:id', deleteProduto);
 
-export default router;
+export default router

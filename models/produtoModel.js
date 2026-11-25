@@ -60,5 +60,5 @@ export const remover = (id) => {
     if (index === -1) return null;
 
     const [produtoRemovido] = produtos.splice(index, 1);
-    return produtoRemovido;
+    return produtoRemovido
 };
