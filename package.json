@@ -12,5 +12,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miguel-506-Nexus/api01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Miguel-506-Nexus/api01/issues"
+  },
+  "homepage": "https://github.com/Miguel-506-Nexus/api01#readme"
 }
